@@ -1,6 +1,6 @@
 %define name	librtas
 %define version	1.2.4
-%define release	1mdk
+%define release	%mkrel 1
 
 %define libname	%mklibname rtas 1
 
