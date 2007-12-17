@@ -13,7 +13,6 @@ License:	IBM Common Public License
 Group:		System/Libraries
 Url:		http://librtas.ozlabs.org/
 ExclusiveArch:	ppc ppc64
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 The librtas shared library provides userspace with an interface
