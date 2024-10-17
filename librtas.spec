@@ -11,7 +11,7 @@ Release:	%{release}
 Source0:	%{name}-%{version}.tar.bz2
 License:	IBM Common Public License
 Group:		System/Libraries
-Url:		http://librtas.ozlabs.org/
+Url:		https://librtas.ozlabs.org/
 ExclusiveArch:	ppc ppc64
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
