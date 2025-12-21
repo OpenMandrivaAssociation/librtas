@@ -15,6 +15,7 @@ Url:		https://librtas.ozlabs.org/
 ExclusiveArch:	ppc ppc64
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
+BuildRequires:	make
 %description
 The librtas shared library provides userspace with an interface
 through which certain RTAS calls can be made.  The library uses either
