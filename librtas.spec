@@ -1,6 +1,6 @@
 %define name	librtas
 %define version	1.2.4
-%define release	%mkrel 3
+%define release 4
 
 %define libname	%mklibname rtas 1
 
